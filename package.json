@@ -1,12 +1,12 @@
 {
   "name": "fake-server",
   "version": "1.0.0",
-  "description": "fake server with fake database",
+  "description": "fake server with fake database to be used on the react app (GreenGrape) simple blog site",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Youssef Zidan",
+  "author": "vh",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
